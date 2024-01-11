@@ -1,3 +1,5 @@
+import { add } from 'lodash'
+
 @Entry
 @Component
 struct Index {
@@ -9,6 +11,9 @@ struct Index {
         Text(this.message)
           .fontSize(50)
           .fontWeight(FontWeight.Bold)
+
+        Text('' + add(6, 3))
+          .fontSize(50)
       }
       .width('100%')
     }

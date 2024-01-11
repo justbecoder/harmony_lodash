@@ -1,0 +1,10 @@
+{
+  "name": "lodash",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "index.ets",
+  "author": "justbecoder<justbecoder@aliyun.com>",
+  "license": "MIT",
+  "repository": "https://github.com/justbecoder/harmony_lodash",
+  "dependencies": {}
+}
